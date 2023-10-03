@@ -24,7 +24,7 @@ Herramietnas
 	|			|--> "ip:000.000.000.000" dentro del navegador de internet
 	|			|--> Se pueden conprovar con un ping a al URL
 	|--> Busqueda de subdominios:
-		|--> Knock
+		|--> Knock (busca sub dominios)
 		|--> Dirbuster (con diccionarios y fuerza bruta busca archivos)
 
 
