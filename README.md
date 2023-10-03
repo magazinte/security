@@ -29,3 +29,7 @@ git push origin nombre_de_la_rama
 git pull origin nombre_de_la_rama_local_a_actualizar
 
 git --help
+
+1) Recopilación de la información
+2) Vulnerabilidades
+3) Post explotación

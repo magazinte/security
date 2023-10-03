@@ -1,0 +1,31 @@
+1) apps instaladas
+2) del lado del servidor
+3) del lado del cliente
+
+Sobre
+|
+|--> Direcciones IP
+|--> Tecnologías usadas
+|--> Registros DNS
+|--> Información del nombre de doimnio
+|--> Otras webs en el mismo servidor
+|--> Archivos, subdominios, directoris no listados
+
+Herramietnas
+|
+|--> |Protocolo|
+	|--> Whois--> Algunas webs ya lo implementan:
+	|		|--> sitereport.netcraft.com
+	|		|--> exploit-db.com
+	|		|--> robtex.com
+	|--> DNS
+	|	|--> viewdns.info (Se pueden ver los dominios hosteados en el mismo servidor)
+	|	|--> bing-hacking: 
+	|			|--> "ip:000.000.000.000" dentro del navegador de internet
+	|			|--> Se pueden conprovar con un ping a al URL
+	|--> Busqueda de subdominios:
+		|--> Knock
+		|--> Dirbuster (con diccionarios y fuerza bruta busca archivos)
+
+
+--
