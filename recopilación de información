@@ -3,7 +3,7 @@
 3) del lado del cliente
 
 Sobre
-|
+|--> Conocimientos de redes; get, pos, etc.
 |--> Direcciones IP
 |--> Tecnologías usadas
 |--> Registros DNS
@@ -26,6 +26,6 @@ Herramietnas
 	|--> Busqueda de subdominios:
 		|--> Knock (busca sub dominios)
 		|--> Dirbuster (con diccionarios y fuerza bruta busca archivos)
+		|--> Weevly (para tener acceso remoto a un servidor via php)
+		|--> Burp proxy (intersepta las comunicaciones utilizando proxy)
 
-
---
